@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url(Montserrat/MontserratBold-DOWZd.ttf);
+}
+*,html,body{
+    margin:0;
+    padding:0;
+    list-style:none;
+    font-family: 'Montserrat SemiBold';
+}
+.wrap{
+    width: 80%;
+    height: 5rem;
+    border-radius: 1rem;
+    background-color: forestgreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    left: 10%;
+    top: 1vh;
+    position: relative;
+}
+.navi{
+    display: flex;
+    padding: 1rem;
+}
+.navi li{
+    list-style-type: none;
+    padding: 0.5rem;
+}
+.navi li a{
+    text-decoration: none;
+    color: white;
+}
+.navi li a:hover{
+    color: gold;
+    transition: all .3s ease-in-out
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    font-size: x-large;
+}
+.lastname{
+    font-family: 'Montserrat Bold';
+    color: white;
+}
+.firstname{
+    color:gold;
+}
+table {
+    border-collapse:collapse;
+    border-spacing: 0;
+    width: 80%;
+    background-color: #ffffff;
+    position: relative;
+    left: 10%;
+    top: 10vh;
+  }
+  
+ th {
+    border: 1px solid #000000;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: grey;
+    font-weight: bold;
+    text-align: center;
+  }
+  td{
+    background-color: white;
+    text-align: center;
+  }
+  td a{
+    text-decoration: none;
+    padding: 0.3rem;
+  }
+  .tambah{
+    position: relative;
+    left: 80%;
+    top: 8vh;
+    text-decoration: none;
+    text-align: center;
+  }
