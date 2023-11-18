@@ -12,12 +12,12 @@
                 <div class="lastname">Page.</div>
             </div>
             <ul class="navi">
-            <li><a href="http://localhost/qoolHotel/admin.php">Home</a></li>
-                <li><a href="http://localhost/qoolHotel/tamu.php">Tamu</a></li>
-                <li><a href="http://localhost/qoolHotel/kamar.php">Rooms</a></li>
-                <li><a href="http://localhost/qoolHotel/transaksi.php">Transaksi</a></li>
-                <li><a href="http://localhost/qoolHotel/reservasi.php">Reservasi</a></li>
-                <li><a href="http://localhost/qoolHotel/resepsionis.php">Resepsionis</a></li>
+            <li><a href="http://github.com/FaizTzyy/wanaHotel/admin.php">Home</a></li>
+                <li><a href="http://github.com/FaizTzyy/wanaHotel/tamu.php">Tamu</a></li>
+                <li><a href="http://github.com/FaizTzyy/wanaHotel/kamar.php">Rooms</a></li>
+                <li><a href="http://github.com/FaizTzyy/wanaHotel/transaksi.php">Transaksi</a></li>
+                <li><a href="http://github.com/FaizTzyy/wanaHotel/reservasi.php">Reservasi</a></li>
+                <li><a href="http://github.com/FaizTzyy/wanaHotel/resepsionis.php">Resepsionis</a></li>
                 </div>
             </ul>
         </nav>
